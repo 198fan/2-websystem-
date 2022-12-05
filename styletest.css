@@ -1,0 +1,47 @@
+	
+	
+	#title {
+		font-size: 20px;
+		color: grey;
+		text-align: center;
+		font-family: serif;
+	}
+	
+	table {
+		width: 40%;
+		margin: auto;
+		border-collapse: collapse;
+	}
+	
+	table, th, td {
+		border: 1px solid black;
+	}
+	
+	th {
+		font-weight: bold;
+		background-color: #cac8de;
+		text-align: center;
+	}
+	
+	th, td {
+		text-align: center;
+		font-family: sans-serif;
+	}
+	
+	#visualize {
+		display: block;
+		margin: auto 25%;
+		text-align: right;
+	}
+	
+	button {
+		width: 100px;
+		height: 30px;
+	}
+	
+	button:active {
+		background-color: #000000;
+		color: white;
+	}
+
+	
